@@ -14,3 +14,6 @@ function ClearCells() {
   sheet.getRange("E31").clearContent();
   sheet.getRange("E33").clearContent(); //13th line
 }
+
+
+www.mardini.com.br
